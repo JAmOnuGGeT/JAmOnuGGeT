@@ -17,9 +17,9 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [Once UI](https://once-ui.com)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/suhaibking).
+- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/jamonugget).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://suhaib.protool.co.in) for more details about me.
+- 💻 Visit my [Portfolio](https://jamonugget.protool.co.in) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -49,18 +49,18 @@
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/Suhaib3100">
+  <a href="https://github.com/jamonugget">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Suhaib3100&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Suhaib3100&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Suhaib3100&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=jamonugget&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=jamonugget&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=jamonugget&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/daytonaio/daytona">
     <img
-      src="https://api.vaunt.dev/v1/github/entities/Kiran1689/achievements?format=svg&limit=6"
+      src="https://api.vaunt.dev/v1/github/entities/jamonugget/achievements?format=svg&limit=6"
       width="400"
     />
   </a>
@@ -76,7 +76,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Suhaib3100">
-          <img align="center" src="https://github-readme-streak-stats-ranit.vercel.app/?user=Suhaib3100&theme=radical&hide_border=true  " alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-streak-stats-ranit.vercel.app/?user=jamonugget&theme=radical&hide_border=true  " alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -84,7 +84,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Suhaib3100">
-          <img align="center" src="https://streak-stats.demolab.com?user=Suhaib3100&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=jamonugget&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -93,15 +93,15 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Suhaib3100/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Suhaib3100&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/jamonugget/Awesome-Dev-Portfolios">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jamonugget&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Suhaib3100">
+        <a href="https://github.com/JAmOnuGGeT">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Suhaib3100&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
@@ -253,12 +253,12 @@
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://buymeacoffee.com/suhaibking7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<a href="https://buymeacoffee.com/JAmOnuGGeT" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/suhaib3100/suhaib3100/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JAmOnuGGeT/JAmOnuGGeT/output/snake.svg" alt="Snake animation" />
 
 <!--Footer--> 
 <p align="center">
