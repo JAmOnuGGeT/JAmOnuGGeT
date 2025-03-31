@@ -24,7 +24,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=jamonugget&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
 ---
@@ -83,7 +83,7 @@
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Suhaib3100">
+        <a href="https://github.com/jamonugget">
           <img align="center" src="https://streak-stats.demolab.com?user=jamonugget&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
@@ -102,7 +102,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/JAmOnuGGeT">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Suhaib3100&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=jamonugget&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -113,7 +113,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhaib3100&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamonugget&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
@@ -229,19 +229,19 @@
 <div align="center">
   
 <a href="mailto:JAmOnuGGeT@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="suhaibking310@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=50 height=50 alt="jamonugget@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/JAmOnuGGeT" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="Suhaib" style="margin-bottom: 5px;" />
+<img src="./twitter.png" width=50 height=50 alt="jamonugget" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/JAmOnuGGeT" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="suhaib_s_z" style="margin-bottom: 5px;" />
+<img src="./instagram.png" width=50 height=50 alt="jamonugget" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/JAmOnuGGeT" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Suhaib3100" style="margin-bottom: 5px;" />
+<img src="./github.png" width=50 height=50 alt="jamonugget" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/jamun" target="_blank">
